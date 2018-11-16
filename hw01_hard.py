@@ -1,3 +1,5 @@
+__author__ = 'Канцеров Александр Павлович'
+
 import math		
 		
 a = math.inf				
