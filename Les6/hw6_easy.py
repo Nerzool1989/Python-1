@@ -1,3 +1,5 @@
+__author__ = 'Канцеров Александр'
+
 import sys
 import math
 
